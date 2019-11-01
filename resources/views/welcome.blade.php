@@ -1,4 +1,4 @@
-@extends('layouts.index')
+@extends('layouts.app')
 @section('content')
     <!--==========================Intro Section============================-->
     <section id="intro">
