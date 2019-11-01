@@ -16,5 +16,4 @@
 #### public->css->style.css
 
     .otherview{
-      margin-top: 7%;
     }
